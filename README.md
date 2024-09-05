@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on open-source projects related to web development and education.<br>
 📫 How to reach me:<br>
 Email: ahmedredaabdelbaset@gmail.com <br>
-LinkedIn: linkedin.com/in/ahmed-reda301 <br>
+LinkedIn: [linkedin.com/in/ahmed-reda301](https://www.linkedin.com/in/ahmed-reda301/) <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I ranked 1st in my Bachelor's program and love teaching web development!<br>
 
