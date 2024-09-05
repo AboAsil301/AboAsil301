@@ -3,11 +3,8 @@
 🌱 I’m currently learning advanced backend development with Django and cloud technologies.<br>
 💞️ I’m looking to collaborate on open-source projects related to web development and education.<br>
 📫 How to reach me:<br>
-     ahmedredaabdelbaset@gmail.com
-      +20 109 459 7301
-    www.linkedin.com/in/ahmed-reda301
-    https://github.com/AboAsil301
-
+Email: ahmedredaabdelbaset@gmail.com <br>
+LinkedIn: linkedin.com/in/ahmed-reda301 <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I ranked 1st in my Bachelor's program and love teaching web development!<br>
 
